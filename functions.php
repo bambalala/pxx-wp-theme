@@ -108,6 +108,10 @@ if ( is_plugin_active( 'wp-script-core/wp-script-core.php' ) ) {
 	* Ajax login register
 	*/
 	require_once get_template_directory() . '/inc/ajax-login-register.php';
+	/**
+	* [custom] API
+	*/
+	require get_template_directory() . '/inc/api.php';
 }
 
 if ( ! function_exists( 'wpst_setup' ) ) :
@@ -597,3 +601,4 @@ function wpst_curl( $url, $referer, $type = null ) {
 	curl_close( $ch );
 	return $page;
 }
+
