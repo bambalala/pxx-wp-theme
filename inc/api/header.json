@@ -1,0 +1,44 @@
+{
+  "logo": "<svg width=\"32\" height=\"32\" viewbox=\"0, 0, 32, 32\" preserveAspectRatio =\"xMinYMin slice\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"16\" cy=\"16\" r=\"16\" fill=\"#F84B94\"/></svg>",
+  "name": "Project name",
+  "description": "Project description",
+  "menu": [
+    {
+      "route": "videos-type-page",
+      "params": {
+        "type": "latest",
+        "page": "1"
+      },
+      "name": "Movies",
+      "text": "All videos",
+      "icon": "_camera-video"
+    },
+    {
+      "route": "names-page",
+      "params": {
+        "page": 1
+      },
+      "name": "Actresses",
+      "text": "Porn models list",
+      "icon": "_woman"
+    },
+    {
+      "route": "videos-type-page",
+      "params": {
+        "type": "favourites"
+      },
+      "name": "Favourites",
+      "text": "Your starred videos",
+      "icon": "_star"
+    },
+    {
+      "route": "tags-page",
+      "params": {
+        "page": 1
+      },
+      "name": "Categories",
+      "text": "Porn types",
+      "icon": "_tags"
+    }
+  ]
+}

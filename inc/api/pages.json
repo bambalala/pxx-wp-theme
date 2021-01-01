@@ -1,0 +1,66 @@
+{
+  "home": {
+    "meta": {
+      "title": "Home page",
+      "description": "Home page"
+    }
+  },
+  "404": {
+    "meta": {
+      "title": "Not found page",
+      "description": "Not found page"
+    }
+  },
+  "taxonomy": {
+    "tags": {
+      "meta": {
+        "title": "Tags",
+        "description": "Tags"
+      }
+    },
+    "actors": {
+      "meta": {
+        "title": "Actresses and actors",
+        "description": "Actresses and actors"
+      }
+    }
+  },
+  "videos": {
+    "latest": {
+      "meta": {
+        "title": "Latest movies",
+        "description": "Latest movies"
+      }
+    },
+    "most-rated": {
+      "meta": {
+        "title": "Most rated movies",
+        "description": "Most rated movies"
+      }
+    },
+    "most-viewed": {
+      "meta": {
+        "title": "Most viewed movies",
+        "description": "Most viewed movies"
+      }
+    },
+    "favourites": {
+      "meta": {
+        "title": "Favourites",
+        "description": "Favourites"
+      }
+    },
+    "post_tag": {
+      "meta": {
+        "title": "Tag:",
+        "description": "Tag page"
+      }
+    },
+    "actors": {
+      "meta": {
+        "title": "Name:",
+        "description": "Actress or actor page"
+      }
+    }
+  }
+}
